@@ -23,3 +23,23 @@
 
 # To push the changes 
     git push origin
+
+## DAILY
+
+# check the branch status
+    git status
+
+# review changes
+    git diff
+
+# add/stage the changes
+    git add .
+
+# commit the changes
+    git commit -m "message"
+
+# push the changes
+ # if first commit in this branch
+    git push -u origin <branchname>
+ # if previously commited from this branch
+    git push origin <branchname>
