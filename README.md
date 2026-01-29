@@ -15,8 +15,11 @@
 # To see latest local changes in one file 
     git diff
 
-#To add/stage the changes git add
+# To add/stage the changes 
+    git add
 
-#To commit the changes git commit -m "commit message"
+# To commit the changes 
+    git commit -m "commit message"
 
-#To push the changes git push origin
+# To push the changes 
+    git push origin
